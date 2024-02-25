@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Iterator;
 
 /**
  * Question B1 testing, Exam 1, Spring 2024, CSIS-225
