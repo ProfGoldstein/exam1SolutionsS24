@@ -63,7 +63,8 @@ public class AckermannFunction {
 
             int result = ackermann(m, n);
             System.out.println("A(" + m + ", " + n + ") = " + result);
-        } catch (StackOverflowError e) {
+        } 
+        catch (StackOverflowError e) {
             System.err.println("Stack overflow error: Cannot calculate large values!");
         }
     }
